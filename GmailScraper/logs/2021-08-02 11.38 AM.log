@@ -1,0 +1,4 @@
+INFO : 2021-08-02 11:38:58,099 : making request
+ERROR : 2021-08-02 11:39:30,765 : username selector not found
+ERROR : 2021-08-02 11:39:30,781 : password selector not found
+INFO : 2021-08-02 11:39:30,799 : submit button not found
